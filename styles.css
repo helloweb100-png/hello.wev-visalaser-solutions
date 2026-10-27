@@ -535,6 +535,8 @@ address { font-style: normal; }
 }
 
 .hero__lead { max-width: 52ch; font-size: clamp(1rem, 2.5vw, 1.2rem); line-height: 1.65; color: rgba(255, 255, 255, .8); }
+.hero__lead strong { color: #fff; font-weight: 800; }
+.hero__lead--group { margin-top: .8rem; }
 .hero__cta { display: grid; gap: .85rem; margin-top: 1.9rem; }
 .hero__trust { display: none; gap: .6rem; margin-top: 1.9rem; font-size: .9rem; font-weight: 600; color: rgba(255, 255, 255, .78); }
 .hero__trust li { display: flex; align-items: center; gap: .6rem; }
