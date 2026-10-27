@@ -19,7 +19,7 @@
        ───────────────────────────────────────────────────────── */
     const CONFIG = {
         // WhatsApp del negocio (código de país + número, sin símbolos)
-        whatsapp: '528721055435',
+        whatsapp: '528727784981',
         // Redes sociales: pega aquí las URLs reales y los íconos aparecerán solos.
         // Mientras estén vacías, la sección "Búscanos en redes sociales" permanece oculta.
         social: {
